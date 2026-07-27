@@ -61,6 +61,7 @@ CATEGORY_DEPT = {
     "Sanitation": "Sanitation Dept",
     "Electricity": "Electrical Dept",
     "Public Property": "General Admin",
+    "Stray Animals": "Sanitation Dept",
 }
 CATEGORIES = list(CATEGORY_DEPT.keys())
 
@@ -79,6 +80,8 @@ DESCRIPTIONS = {
                       "Exposed wiring near houses", "Meter reading incorrect"],
     "Public Property": ["Community hall roof leaking", "Park equipment broken",
                           "Bus shelter damaged", "Compound wall collapsed"],
+    "Stray Animals": ["Stray dogs chasing children", "Cattle blocking main road",
+                    "Monkeys damaging property"],
 }
 
 STATUSES = ["Open", "In Progress", "Resolved"]

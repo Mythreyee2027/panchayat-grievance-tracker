@@ -1,21 +1,29 @@
 package com.panchayat.grievance.controller;
 
-import com.panchayat.grievance.dto.GrievanceCreateRequest;
-import com.panchayat.grievance.dto.GrievanceResponse;
-import com.panchayat.grievance.model.Grievance;
-import com.panchayat.grievance.repository.GrievanceRepository;
-import com.panchayat.grievance.service.MlPredictionService;
-import jakarta.validation.Valid;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.MethodArgumentNotValidException;
-import org.springframework.web.bind.annotation.*;
-
 import java.time.LocalDate;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.MethodArgumentNotValidException;
+import org.springframework.web.bind.annotation.ExceptionHandler;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.panchayat.grievance.dto.GrievanceCreateRequest;
+import com.panchayat.grievance.dto.GrievanceResponse;
+import com.panchayat.grievance.model.Grievance;
+import com.panchayat.grievance.repository.GrievanceRepository;
+import com.panchayat.grievance.service.MlPredictionService;
+
+import jakarta.validation.Valid;
 
 @RestController
 @RequestMapping("/api/grievances")
@@ -23,7 +31,7 @@ public class GrievanceController {
 
     private static final List<String> CATEGORIES = List.of(
             "Water Supply", "Road/Culvert", "Street Light", "Drainage",
-            "Sanitation", "Electricity", "Public Property");
+            "Sanitation", "Electricity", "Public Property", "Stray Animals");
 
     private static final Map<String, String> CATEGORY_DEPT = Map.of(
             "Water Supply", "Water Dept",
@@ -32,7 +40,8 @@ public class GrievanceController {
             "Drainage", "Public Works",
             "Sanitation", "Sanitation Dept",
             "Electricity", "Electrical Dept",
-            "Public Property", "General Admin");
+            "Public Property", "General Admin",
+            "Stray Animals", "Sanitation Dept");
 
     private final GrievanceRepository repository;
     private final MlPredictionService mlPredictionService;

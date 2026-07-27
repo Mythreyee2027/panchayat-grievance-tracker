@@ -1,101 +1,101 @@
 grievance_id,complainant,ward,category,department,description,date_raised,status,resolved_date,days_to_resolve,delayed
-G0001,Priya R,12,Street Light,Electrical Dept,Pole damaged and sparking,2026-01-23,Open,,,
-G0002,Priya K,10,Drainage,Public Works,"Drain blocked, water stagnant",2025-10-16,Open,,,
-G0003,Anitha R,9,Road/Culvert,Public Works,Broken road divider,2026-01-21,In Progress,,,
-G0004,Karthik R,13,Public Property,General Admin,Park equipment broken,2026-05-05,Open,,,
-G0005,Rajesh M,13,Street Light,Electrical Dept,Street light not working,2025-11-17,Open,,,
-G0006,Divya N,10,Street Light,Electrical Dept,Street light not working,2026-05-24,In Progress,,,
-G0007,Vijay K,9,Street Light,Electrical Dept,Light flickers all night,2026-07-23,Open,,,
-G0008,Selvam R,11,Road/Culvert,Public Works,Road washed out near bridge,2025-11-10,Resolved,2025-11-14,4,0
-G0009,Vijay P,8,Electricity,Electrical Dept,Exposed wiring near houses,2025-12-23,Open,,,
-G0010,Suresh P,12,Electricity,Electrical Dept,Frequent power cuts,2025-12-27,In Progress,,,
-G0011,Anitha S,8,Drainage,Public Works,"Drain cover missing, unsafe",2026-07-13,Open,,,
-G0012,Ganesan R,4,Public Property,General Admin,Community hall roof leaking,2026-03-11,In Progress,,,
-G0013,Selvam M,15,Sanitation,Sanitation Dept,Dead animal not removed,2026-01-17,Resolved,2026-01-30,13,1
-G0014,Manoj S,5,Road/Culvert,Public Works,Culvert collapsed after rain,2026-07-15,In Progress,,,
-G0015,Arun V,15,Sanitation,Sanitation Dept,Waste dumped near school,2026-04-04,Open,,,
-G0016,Rajesh T,2,Public Property,General Admin,Community hall roof leaking,2025-11-26,Open,,,
-G0017,Lakshmi V,10,Water Supply,Water Dept,Low water pressure,2026-04-14,In Progress,,,
-G0018,Manoj P,9,Public Property,General Admin,Community hall roof leaking,2025-11-28,Resolved,2025-12-16,18,1
-G0019,Karthik N,2,Street Light,Electrical Dept,No light on main road,2025-12-20,In Progress,,,
-G0020,Karthik S,9,Water Supply,Water Dept,Contaminated water in tap,2026-06-17,In Progress,,,
-G0021,Rajesh N,13,Road/Culvert,Public Works,Pothole causing accidents,2026-03-15,In Progress,,,
-G0022,Priya N,15,Public Property,General Admin,Bus shelter damaged,2026-01-31,Open,,,
-G0023,Arun K,2,Electricity,Electrical Dept,Meter reading incorrect,2025-11-05,Resolved,2025-11-23,18,1
-G0024,Rajesh S,11,Drainage,Public Works,Sewage overflow on street,2026-02-13,In Progress,,,
-G0025,Bhavani V,4,Sanitation,Sanitation Dept,Public toilet unclean,2026-03-09,Open,,,
-G0026,Divya T,15,Sanitation,Sanitation Dept,Waste dumped near school,2025-12-01,Open,,,
-G0027,Selvam N,1,Sanitation,Sanitation Dept,Public toilet unclean,2026-01-21,Open,,,
-G0028,Kavitha M,2,Water Supply,Water Dept,Contaminated water in tap,2025-11-06,In Progress,,,
-G0029,Karthik T,4,Sanitation,Sanitation Dept,Public toilet unclean,2026-07-20,In Progress,,,
-G0030,Anitha T,13,Drainage,Public Works,Sewage overflow on street,2025-11-18,Open,,,
-G0031,Saranya N,7,Drainage,Public Works,Storm water not draining,2025-10-28,Resolved,2025-11-01,4,0
-G0032,Kavitha V,12,Street Light,Electrical Dept,Street light not working,2026-02-05,Open,,,
-G0033,Deepa T,3,Drainage,Public Works,Sewage overflow on street,2026-02-20,In Progress,,,
-G0034,Selvam T,13,Public Property,General Admin,Community hall roof leaking,2025-10-26,Resolved,2025-11-13,18,1
-G0035,Muthu K,15,Public Property,General Admin,Park equipment broken,2025-12-25,In Progress,,,
-G0036,Revathi M,14,Drainage,Public Works,"Drain blocked, water stagnant",2025-12-24,Open,,,
-G0037,Vijay P,15,Public Property,General Admin,Compound wall collapsed,2026-02-24,In Progress,,,
-G0038,Deepa T,3,Road/Culvert,Public Works,Road washed out near bridge,2026-01-20,Resolved,2026-02-08,19,1
-G0039,Deepa R,12,Street Light,Electrical Dept,Street light not working,2025-10-26,In Progress,,,
-G0040,Prakash S,1,Sanitation,Sanitation Dept,Garbage not collected for a week,2026-01-04,Open,,,
-G0041,Selvam M,7,Water Supply,Water Dept,Pipe leaking near street,2026-07-24,In Progress,,,
-G0042,Bhavani K,7,Electricity,Electrical Dept,Exposed wiring near houses,2026-02-11,Open,,,
-G0043,Ganesan M,5,Drainage,Public Works,Sewage overflow on street,2026-03-03,In Progress,,,
-G0044,Selvam R,8,Sanitation,Sanitation Dept,Garbage not collected for a week,2025-11-07,In Progress,,,
-G0045,Prakash P,3,Street Light,Electrical Dept,Street light not working,2026-02-03,Open,,,
-G0046,Lakshmi T,14,Sanitation,Sanitation Dept,Dead animal not removed,2026-06-28,Open,,,
-G0047,Deepa P,15,Electricity,Electrical Dept,Frequent power cuts,2025-12-08,Open,,,
-G0048,Priya S,5,Street Light,Electrical Dept,Pole damaged and sparking,2026-03-25,Open,,,
-G0049,Karthik T,5,Public Property,General Admin,Community hall roof leaking,2025-11-17,In Progress,,,
-G0050,Karthik R,1,Street Light,Electrical Dept,Pole damaged and sparking,2026-02-12,Open,,,
-G0051,Manoj V,9,Water Supply,Water Dept,No water supply for 3 days,2025-11-08,Resolved,2025-11-13,5,0
-G0052,Deepa R,14,Street Light,Electrical Dept,Pole damaged and sparking,2026-05-09,Open,,,
-G0053,Meena N,15,Public Property,General Admin,Community hall roof leaking,2026-04-02,Open,,,
-G0054,Anitha K,6,Public Property,General Admin,Compound wall collapsed,2025-12-19,Resolved,2025-12-27,8,1
-G0055,Lakshmi S,15,Drainage,Public Works,"Drain blocked, water stagnant",2025-12-31,Resolved,2026-01-11,11,1
-G0056,Saranya M,5,Road/Culvert,Public Works,Pothole causing accidents,2026-04-14,Resolved,2026-04-30,16,1
-G0057,Anitha M,14,Drainage,Public Works,"Drain cover missing, unsafe",2026-03-06,Resolved,2026-03-14,8,1
-G0058,Anitha R,11,Road/Culvert,Public Works,Broken road divider,2026-03-18,Open,,,
-G0059,Selvam P,6,Electricity,Electrical Dept,Meter reading incorrect,2026-07-02,Open,,,
-G0060,Muthu K,15,Street Light,Electrical Dept,Pole damaged and sparking,2026-02-13,Open,,,
-G0061,Bhavani V,6,Electricity,Electrical Dept,Exposed wiring near houses,2026-05-12,In Progress,,,
-G0062,Prakash K,7,Sanitation,Sanitation Dept,Public toilet unclean,2026-02-08,Open,,,
-G0063,Saranya R,9,Public Property,General Admin,Park equipment broken,2026-04-05,In Progress,,,
-G0064,Ganesan N,11,Public Property,General Admin,Community hall roof leaking,2026-03-03,In Progress,,,
-G0065,Saranya N,7,Electricity,Electrical Dept,Exposed wiring near houses,2026-07-11,Open,,,
-G0066,Saranya V,11,Electricity,Electrical Dept,Transformer making noise,2026-07-19,Open,,,
-G0067,Deepa R,5,Street Light,Electrical Dept,Pole damaged and sparking,2026-05-09,Resolved,2026-05-29,20,1
-G0068,Ganesan T,8,Drainage,Public Works,Sewage overflow on street,2026-06-19,In Progress,,,
-G0069,Lakshmi K,5,Sanitation,Sanitation Dept,Dead animal not removed,2025-11-17,Resolved,2025-11-25,8,1
-G0070,Meena M,13,Road/Culvert,Public Works,Culvert collapsed after rain,2025-10-13,Open,,,
-G0071,Revathi K,8,Drainage,Public Works,Sewage overflow on street,2026-04-15,In Progress,,,
-G0072,Anitha S,11,Electricity,Electrical Dept,Frequent power cuts,2025-11-24,Resolved,2025-12-02,8,1
-G0073,Lakshmi T,1,Sanitation,Sanitation Dept,Public toilet unclean,2025-12-02,In Progress,,,
-G0074,Manoj N,13,Drainage,Public Works,Storm water not draining,2026-07-08,In Progress,,,
-G0075,Lakshmi T,8,Street Light,Electrical Dept,Pole damaged and sparking,2026-02-19,Resolved,2026-03-08,17,1
-G0076,Revathi M,5,Drainage,Public Works,"Drain blocked, water stagnant",2026-02-24,Open,,,
-G0077,Ganesan N,15,Sanitation,Sanitation Dept,Garbage not collected for a week,2025-12-10,Open,,,
-G0078,Vijay S,12,Road/Culvert,Public Works,Pothole causing accidents,2026-05-01,In Progress,,,
-G0079,Deepa T,7,Water Supply,Water Dept,Pipe leaking near street,2026-05-04,Open,,,
-G0080,Arun R,14,Public Property,General Admin,Compound wall collapsed,2026-06-02,Open,,,
-G0081,Divya P,13,Drainage,Public Works,Storm water not draining,2026-07-03,Resolved,2026-07-21,18,1
-G0082,Bhavani M,8,Road/Culvert,Public Works,Road washed out near bridge,2026-05-12,In Progress,,,
-G0083,Vijay N,11,Electricity,Electrical Dept,Meter reading incorrect,2025-12-24,Resolved,2025-12-29,5,0
-G0084,Bhavani R,15,Drainage,Public Works,"Drain blocked, water stagnant",2025-11-12,In Progress,,,
-G0085,Rajesh T,3,Water Supply,Water Dept,Contaminated water in tap,2026-04-13,Open,,,
-G0086,Manoj N,6,Public Property,General Admin,Compound wall collapsed,2026-02-20,Resolved,2026-03-06,14,1
-G0087,Karthik K,8,Water Supply,Water Dept,No water supply for 3 days,2026-03-29,Open,,,
-G0088,Selvam R,13,Water Supply,Water Dept,Pipe leaking near street,2026-01-11,Resolved,2026-01-31,20,1
-G0089,Rajesh M,3,Drainage,Public Works,"Drain blocked, water stagnant",2026-07-16,Resolved,2026-07-24,8,1
-G0090,Karthik N,3,Sanitation,Sanitation Dept,Garbage not collected for a week,2025-12-23,Resolved,2025-12-27,4,0
-G0091,Arun R,15,Street Light,Electrical Dept,No light on main road,2026-04-22,Resolved,2026-04-29,7,0
-G0092,Selvam M,2,Electricity,Electrical Dept,Exposed wiring near houses,2025-12-01,Resolved,2025-12-20,19,1
-G0093,Kavitha N,9,Drainage,Public Works,"Drain cover missing, unsafe",2025-11-05,In Progress,,,
-G0094,Ganesan R,14,Drainage,Public Works,Storm water not draining,2025-11-24,In Progress,,,
-G0095,Divya T,12,Road/Culvert,Public Works,Broken road divider,2025-12-30,Resolved,2026-01-08,9,1
+G0001,Priya R,12,Sanitation,Sanitation Dept,Public toilet unclean,2026-01-23,Open,,,
+G0002,Priya K,10,Public Property,General Admin,Community hall roof leaking,2025-10-16,Open,,,
+G0003,Anitha R,9,Drainage,Public Works,Storm water not draining,2026-01-21,In Progress,,,
+G0004,Karthik R,13,Street Light,Electrical Dept,No light on main road,2026-03-24,Open,,,
+G0005,Suresh N,2,Road/Culvert,Public Works,Broken road divider,2025-11-19,Open,,,
+G0006,Divya P,13,Water Supply,Water Dept,Low water pressure,2026-07-02,Open,,,
+G0007,Vijay K,9,Sanitation,Sanitation Dept,Dead animal not removed,2026-07-23,Open,,,
+G0008,Selvam R,11,Drainage,Public Works,"Drain cover missing, unsafe",2025-11-10,Resolved,2025-11-14,4,0
+G0009,Vijay P,8,Electricity,Electrical Dept,Transformer making noise,2026-04-08,Open,,,
+G0010,Karthik K,10,Street Light,Electrical Dept,Pole damaged and sparking,2025-12-23,In Progress,,,
+G0011,Karthik M,11,Electricity,Electrical Dept,Frequent power cuts,2026-01-26,Resolved,2026-02-06,11,1
+G0012,Vijay P,2,Drainage,Public Works,"Drain cover missing, unsafe",2026-01-17,Resolved,2026-01-30,13,1
+G0013,Manoj S,5,Street Light,Electrical Dept,Pole damaged and sparking,2026-07-15,In Progress,,,
+G0014,Arun V,15,Public Property,General Admin,Bus shelter damaged,2026-01-21,Resolved,2026-01-26,5,0
+G0015,Prakash T,2,Water Supply,Water Dept,No water supply for 3 days,2025-12-18,In Progress,,,
+G0016,Saranya K,7,Public Property,General Admin,Compound wall collapsed,2026-06-28,Open,,,
+G0017,Deepa R,11,Road/Culvert,Public Works,Road washed out near bridge,2026-03-24,Open,,,
+G0018,Saranya S,8,Water Supply,Water Dept,Contaminated water in tap,2026-06-14,Resolved,2026-07-01,17,1
+G0019,Priya P,14,Drainage,Public Works,Sewage overflow on street,2026-04-10,Resolved,2026-04-28,18,1
+G0020,Prakash R,10,Electricity,Electrical Dept,Meter reading incorrect,2025-10-10,Open,,,
+G0021,Divya P,4,Water Supply,Water Dept,Pipe leaking near street,2026-07-18,Resolved,2026-07-19,1,0
+G0022,Revathi K,13,Street Light,Electrical Dept,Pole damaged and sparking,2026-06-01,Resolved,2026-06-07,6,0
+G0023,Karthik V,4,Drainage,Public Works,"Drain cover missing, unsafe",2026-04-23,Resolved,2026-05-05,12,1
+G0024,Manoj T,2,Drainage,Public Works,Sewage overflow on street,2025-11-02,Open,,,
+G0025,Arun M,10,Drainage,Public Works,"Drain blocked, water stagnant",2025-11-06,Resolved,2025-11-08,2,0
+G0026,Anitha K,15,Water Supply,Water Dept,Contaminated water in tap,2025-11-06,In Progress,,,
+G0027,Karthik T,4,Street Light,Electrical Dept,No light on main road,2026-02-02,Resolved,2026-02-16,14,1
+G0028,Suresh K,2,Public Property,General Admin,Bus shelter damaged,2026-05-05,In Progress,,,
+G0029,Kavitha K,1,Public Property,General Admin,Bus shelter damaged,2025-11-25,Open,,,
+G0030,Suresh T,3,Public Property,General Admin,Park equipment broken,2026-02-20,In Progress,,,
+G0031,Selvam T,13,Road/Culvert,Public Works,Pothole causing accidents,2026-07-04,Resolved,2026-07-07,3,0
+G0032,Anitha S,7,Stray Animals,Sanitation Dept,Cattle blocking main road,2026-01-18,Resolved,2026-01-20,2,0
+G0033,Lakshmi V,1,Public Property,General Admin,Bus shelter damaged,2026-05-21,Open,,,
+G0034,Deepa T,3,Drainage,Public Works,"Drain cover missing, unsafe",2026-01-20,Resolved,2026-02-08,19,1
+G0035,Deepa R,12,Electricity,Electrical Dept,Frequent power cuts,2025-10-26,In Progress,,,
+G0036,Prakash S,1,Road/Culvert,Public Works,Culvert collapsed after rain,2025-11-05,In Progress,,,
+G0037,Anitha V,2,Drainage,Public Works,"Drain blocked, water stagnant",2025-11-11,In Progress,,,
+G0038,Arun N,15,Sanitation,Sanitation Dept,Public toilet unclean,2026-03-10,Open,,,
+G0039,Vijay S,11,Sanitation,Sanitation Dept,Waste dumped near school,2026-03-11,Resolved,2026-03-14,3,0
+G0040,Muthu T,10,Road/Culvert,Public Works,Pothole causing accidents,2026-07-03,Open,,,
+G0041,Karthik S,15,Electricity,Electrical Dept,Frequent power cuts,2026-02-03,Open,,,
+G0042,Lakshmi T,14,Sanitation,Sanitation Dept,Garbage not collected for a week,2026-07-11,Open,,,
+G0043,Priya S,5,Road/Culvert,Public Works,Pothole causing accidents,2026-07-11,Open,,,
+G0044,Meena M,12,Electricity,Electrical Dept,Transformer making noise,2026-02-13,In Progress,,,
+G0045,Karthik R,2,Public Property,General Admin,Bus shelter damaged,2025-10-23,Open,,,
+G0046,Rajesh P,3,Stray Animals,Sanitation Dept,Monkeys damaging property,2026-05-07,In Progress,,,
+G0047,Priya K,15,Street Light,Electrical Dept,Street light not working,2026-04-08,In Progress,,,
+G0048,Rajesh V,3,Water Supply,Water Dept,Contaminated water in tap,2026-04-05,Resolved,2026-04-07,2,0
+G0049,Divya M,11,Drainage,Public Works,"Drain blocked, water stagnant",2026-03-31,Resolved,2026-04-14,14,1
+G0050,Bhavani S,15,Drainage,Public Works,Sewage overflow on street,2025-12-30,Resolved,2025-12-31,1,0
+G0051,Lakshmi N,13,Public Property,General Admin,Park equipment broken,2026-02-14,Open,,,
+G0052,Priya V,14,Water Supply,Water Dept,Low water pressure,2026-01-22,Open,,,
+G0053,Manoj N,5,Drainage,Public Works,Sewage overflow on street,2025-10-13,Resolved,2025-10-26,13,1
+G0054,Ganesan P,14,Road/Culvert,Public Works,Road washed out near bridge,2026-03-29,In Progress,,,
+G0055,Vijay N,1,Road/Culvert,Public Works,Road washed out near bridge,2025-12-31,In Progress,,,
+G0056,Karthik R,2,Public Property,General Admin,Bus shelter damaged,2026-03-10,In Progress,,,
+G0057,Prakash K,7,Drainage,Public Works,"Drain cover missing, unsafe",2025-10-23,Resolved,2025-10-24,1,0
+G0058,Prakash M,6,Public Property,General Admin,Community hall roof leaking,2026-03-19,In Progress,,,
+G0059,Priya P,9,Sanitation,Sanitation Dept,Waste dumped near school,2026-03-17,In Progress,,,
+G0060,Meena S,4,Public Property,General Admin,Compound wall collapsed,2025-12-29,In Progress,,,
+G0061,Meena V,9,Water Supply,Water Dept,Contaminated water in tap,2026-02-24,Open,,,
+G0062,Arun N,8,Stray Animals,Sanitation Dept,Cattle blocking main road,2026-01-18,In Progress,,,
+G0063,Lakshmi K,5,Electricity,Electrical Dept,Frequent power cuts,2026-01-29,Resolved,2026-02-06,8,1
+G0064,Suresh S,1,Water Supply,Water Dept,Pipe leaking near street,2026-06-01,In Progress,,,
+G0065,Selvam T,7,Drainage,Public Works,Storm water not draining,2026-06-11,Open,,,
+G0066,Rajesh R,15,Road/Culvert,Public Works,Broken road divider,2026-01-21,Open,,,
+G0067,Prakash T,1,Drainage,Public Works,"Drain blocked, water stagnant",2026-05-22,Open,,,
+G0068,Manoj N,13,Stray Animals,Sanitation Dept,Monkeys damaging property,2026-06-16,In Progress,,,
+G0069,Deepa T,15,Street Light,Electrical Dept,No light on main road,2026-05-19,Open,,,
+G0070,Anitha P,13,Stray Animals,Sanitation Dept,Monkeys damaging property,2026-01-31,Open,,,
+G0071,Selvam P,4,Sanitation,Sanitation Dept,Dead animal not removed,2026-03-13,Resolved,2026-03-16,3,0
+G0072,Rajesh S,4,Public Property,General Admin,Park equipment broken,2026-01-18,Open,,,
+G0073,Saranya N,9,Stray Animals,Sanitation Dept,Cattle blocking main road,2025-11-01,Open,,,
+G0074,Saranya V,15,Water Supply,Water Dept,Low water pressure,2026-06-02,Open,,,
+G0075,Divya P,13,Public Property,General Admin,Compound wall collapsed,2026-07-03,Resolved,2026-07-21,18,1
+G0076,Bhavani M,8,Drainage,Public Works,"Drain cover missing, unsafe",2026-05-12,In Progress,,,
+G0077,Vijay N,11,Public Property,General Admin,Park equipment broken,2026-05-28,Resolved,2026-06-17,20,1
+G0078,Deepa R,15,Public Property,General Admin,Community hall roof leaking,2025-11-12,In Progress,,,
+G0079,Rajesh T,3,Water Supply,Water Dept,Contaminated water in tap,2026-04-13,Open,,,
+G0080,Manoj N,6,Public Property,General Admin,Bus shelter damaged,2026-05-04,Open,,,
+G0081,Selvam T,1,Water Supply,Water Dept,Contaminated water in tap,2026-01-23,Resolved,2026-01-25,2,0
+G0082,Muthu M,4,Water Supply,Water Dept,Pipe leaking near street,2026-01-31,Open,,,
+G0083,Priya M,8,Sanitation,Sanitation Dept,Dead animal not removed,2025-12-25,In Progress,,,
+G0084,Priya S,5,Road/Culvert,Public Works,Pothole causing accidents,2026-03-09,In Progress,,,
+G0085,Vijay V,12,Drainage,Public Works,"Drain blocked, water stagnant",2026-02-02,Open,,,
+G0086,Meena K,13,Water Supply,Water Dept,Contaminated water in tap,2026-06-30,In Progress,,,
+G0087,Divya K,9,Electricity,Electrical Dept,Frequent power cuts,2026-05-04,Resolved,2026-05-08,4,0
+G0088,Saranya N,11,Stray Animals,Sanitation Dept,Monkeys damaging property,2025-12-18,In Progress,,,
+G0089,Prakash P,10,Stray Animals,Sanitation Dept,Cattle blocking main road,2026-05-12,Resolved,2026-05-31,19,1
+G0090,Karthik N,14,Drainage,Public Works,"Drain blocked, water stagnant",2026-02-20,Resolved,2026-02-28,8,1
+G0091,Manoj V,6,Water Supply,Water Dept,Low water pressure,2026-03-16,Open,,,
+G0092,Suresh N,13,Sanitation,Sanitation Dept,Dead animal not removed,2026-02-21,Resolved,2026-03-02,9,1
+G0093,Deepa R,9,Drainage,Public Works,"Drain blocked, water stagnant",2026-02-01,Resolved,2026-02-17,16,1
+G0094,Deepa M,12,Stray Animals,Sanitation Dept,Monkeys damaging property,2026-06-09,In Progress,,,
+G0095,Muthu K,5,Drainage,Public Works,Storm water not draining,2026-02-02,Open,,,
 G0096,Ramesh K,4,Road/Culvert,,Road damaged after heavy rain,2026-06-02,Open,,,
-G0097,Selvam R,7,Water Supply,Water Dept,No water supply for 3 days,2026-07-03,In Progress,,,
-G0098,Selvam. R,7,Water Supply,Water Dept,Low water pressure in the mornings,2026-07-05,Open,,,
+G0097,Selvam R,7,Water Supply,Water Dept,No water supply for 3 days,2026-04-07,In Progress,,,
+G0098,Selvam. R,7,Water Supply,Water Dept,Low water pressure in the mornings,2026-04-09,Open,,,
 G0099,Test User,1,Other,General Admin,"Test entry - ignore, not a real complaint",2026-01-15,Resolved,2026-01-16,1,0
 G0100,Ganesan V,12,Drainage,Public Works,Drain has been blocked since last monsoon,2025-10-05,Open,,,

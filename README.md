@@ -133,3 +133,7 @@ git push -u origin main
 
 [Watch the demo video here](https://drive.google.com/file/d/1LMgqt7wM277aCtAO90E6XpPiuC_SPbcA/view?usp=sharing)
 
+## Level 2 Demo Video
+
+[Watch the Level 2 (on-spot changes) demo video](https://drive.google.com/file/d/1jAvNgj5deYI_2OOC9vQcwbn4QcbRtjam/view?usp=sharing)
+
